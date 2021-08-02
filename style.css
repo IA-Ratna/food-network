@@ -1,0 +1,115 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    color: grey;
+    margin: 0;
+}
+   
+ h1{
+     font-size: 60px;
+     margin-top: 150px;
+}
+.Skip{
+    color: tomato;
+}
+p{
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 30px;
+    color: white;
+}
+.half-width{
+    width: 50%;
+    margin-top: 100px;
+   
+}
+.half-width img{
+    width: 80%;
+}
+.Healthy{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.About-Me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    display: flex;
+    margin-top: 100px;
+    background-size: cover;
+    padding: 0 5%;
+}
+h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.About-half{
+    width: 50%;
+}
+.About-half img{
+    width: 40%;
+    margin-left: 150px;
+}
+
+.flexible-container{
+    display: flex;
+
+}
+
+.Recipies-ditail{
+    margin: 0 auto;
+    width: 706px;
+    text-align: center;
+}
+.food-title{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.food-project{
+    width: 33%;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 25px;
+    box-shadow: 5px 5px 20px  grey;
+
+}
+.food-project img{
+    width: 100%;
+}
+.food-project:hover{
+    box-shadow: 10px 10px 40px  grey; 
+}
+.social{
+    display: flex;
+    margin: 50px 100px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px  grey;
+   
+    
+}
+.social-item{
+    width: 33%;
+    text-align: center;
+    color: black;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 10px;
+
+}
+footer h2{
+    margin: 0%;
+}
+
+
+
+   
